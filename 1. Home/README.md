@@ -25,4 +25,6 @@ I'm eager to secure a co-op position in [industry/field] where I can:
 
 **Get in Touch**
 
-If you'd like to learn more about me or discuss potential opportunities, feel free to reach out! You can find my contact information on the [LinkedIn page] or send an email directly.
+If you'd like to learn more about me or discuss potential opportunities, feel free to reach out! 
+
+You can contact me through my [LinkedIn Page](https://www.linkedin.com/in/joshua-newell-p-eng-4705965a/) or send me an [email](newellj@saskpolytech.ca) directly.
