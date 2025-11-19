@@ -1,10 +1,14 @@
-### Welcome to my Digital Portfolio!
+## Welcome to my Digital Portfolio!
 
-I'm [Your Name], a post-secondary student with a passion for [relevant passion]. I'm currently pursuing a diploma in Computer Engineering Technology at Saskatchewan Polytechnic.
+I'm [Your Name], a post-secondary student with a passion for [relevant passion]. 
+
+I'm currently pursuing a diploma in Computer Engineering Technology at Saskatchewan Polytechnic.
 
 **About Me**
 
-As a recent graduate, I've gained hands-on experience in [specific skills or projects you've worked on]. I'm excited to apply my skills and knowledge to a role where I can contribute to a dynamic team and continue to learn and grow.
+As a current student, I've gained hands-on experience in [specific skills or projects you've worked on]. 
+
+I'm excited to apply my skills and knowledge to a role where I can contribute to a dynamic team and continue to learn and grow.
 
 **What I Do**
 

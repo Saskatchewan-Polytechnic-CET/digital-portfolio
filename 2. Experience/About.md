@@ -1,7 +1,7 @@
 # Experience
 
 
-As a post-secondary student with a passion for [your field of study or industry], I've had the opportunity to gain valuable experience in various roles and projects.
+As a Computer Engineering post-secondary student, I've had the opportunity to gain valuable experience in various roles and projects.
 
 ## Co-op Experience:
 
@@ -15,7 +15,7 @@ As a post-secondary student with a passion for [your field of study or industry]
 
 ## Education:
 
-* **University:** [University Name]
+* **College:** [College Name]
 * **Program:** [Program Name]
 * **Duration:** [Date] - [Date]
 * **Summary:**
