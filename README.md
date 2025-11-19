@@ -6,10 +6,12 @@ This repository serves as a starting point for post-secondary students looking t
 
 This template is designed to be easy to use, customizable, and adaptable to your needs. It includes a basic structure for organizing your content, with sections for:
 
-* **Home**: A brief introduction to who you are, what you do, and what you're looking for.
-* **Projects**: A showcase of your projects, including descriptions, screenshots, and links to live demos or GitHub pages.
-* **Skills**: A list of your relevant skills, including technical proficiency, soft skills, and certifications.
-* **Experience**: A summary of your work experience, education, and achievements.
+1. **Home**: A brief introduction to who you are, what you do, and what you're looking for.
+2. **Experience**: A summary of your work experience, education, and achievements.
+3. **Skills**: A list of your relevant skills, including technical proficiency, soft skills, and certifications.
+4. **Projects**: A showcase of your projects, including descriptions, screenshots, and links to live demos or GitHub pages.
+
+
 
 ## Getting Started
 
