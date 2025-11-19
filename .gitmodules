@@ -7,3 +7,6 @@
 [submodule "4. Projects/Project 3"]
 	path = 4. Projects/Project 3
 	url = https://github.com/Saskatchewan-Polytechnic-CET/student-workshop
+[submodule "4. Projects/Project 4"]
+	path = 4. Projects/Project 4
+	url = https://github.com/Saskatchewan-Polytechnic-CET/rpi-examples

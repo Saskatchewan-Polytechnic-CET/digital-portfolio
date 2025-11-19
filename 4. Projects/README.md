@@ -28,6 +28,12 @@ As a Computer Engineering post-secondary student, I've had the opportunity to wo
 	+ Participated in a hackathon at [event/location], where you developed a [project outcome, e.g. prototype, etc.].
 * **Awards:** [Insert any awards or recognition you received for this project]
 
+## Project 4: [Project Name]
+
+* **Description:** [Briefly describe the project, including your role and responsibilities]
+	+ Developed a [project outcome, e.g. website, mobile app, etc.] using [technologies or tools].
+
+
 **Tools and Technologies Used**
 --------------------------------
 
