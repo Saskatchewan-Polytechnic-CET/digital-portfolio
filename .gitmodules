@@ -1,0 +1,9 @@
+[submodule "4. Projects/Project 1"]
+	path = 4. Projects/Project 1
+	url = https://github.com/Saskatchewan-Polytechnic-CET/raspberry-relay-challenge
+[submodule "4. Projects/Project 2"]
+	path = 4. Projects/Project 2
+	url = https://github.com/Saskatchewan-Polytechnic-CET/comp112-pygame-template
+[submodule "4. Projects/Project 3"]
+	path = 4. Projects/Project 3
+	url = https://github.com/Saskatchewan-Polytechnic-CET/student-workshop
